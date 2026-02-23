@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* This replaces the old tailwind.config.js! */
+@theme {
+  --color-primary-dark: #1e293b;
+  --color-brand-green: #10b981;
+  --font-custom: "Inter", sans-serif;
+}
