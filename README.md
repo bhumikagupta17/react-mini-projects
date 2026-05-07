@@ -14,6 +14,22 @@ A collection of small React applications built while learning frontend developme
 | 06 | [Theme Toggle Product Card](./06-theme-toggle) | A product card UI with global light/dark mode toggle. | Context API, Theming, Dynamic Styling |
 | 07 | [Todo App](./07-todolist) | A full CRUD todo app with localStorage persistence and dynamic UI updates. | CRUD, localStorage, State Management, Conditional Rendering |
 
+---
+
+## 📸 Screenshots
+
+> Some projects in this repository are focused on learning core React concepts and may prioritize functionality over UI design.
+
+| Project | Preview |
+|---|---|
+| Background Changer | ![](./screenshots/bgChanger.png) |
+| Password Generator | ![](./screenshots/passwordGenerator.png) |
+| Currency Converter | ![](./screenshots/currencyConvertor.png) |
+| Theme Toggle Product Card | ![](./screenshots/themeSwitcher.png) |
+| Todo App | ![](./screenshots/toDo.png) |
+
+---
+
 ## 🌱 Learning Journey
 
 This repository documents my journey of learning React step by step:
@@ -29,10 +45,14 @@ This repository documents my journey of learning React step by step:
 - Used `localStorage` to persist user data across sessions
 - Improved styling skills using Tailwind CSS and responsive layouts
 
+---
+
 ## 🛠️ Tech Stack
 * React (Vite)
 * JavaScript (ES6+)
 * Tailwind CSS
+
+---
 
 ## 💻 How to Run Locally
 
@@ -58,3 +78,12 @@ npm install
 npm run dev
 ```
 **Dont forget to swap out your ```username``` in the clone link before you commit!!**
+
+---
+
+## 💡 Author
+
+**Bhumika Gupta**  
+Frontend & React Learner 🚀
+
+---
