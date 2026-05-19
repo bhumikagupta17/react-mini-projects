@@ -60,7 +60,7 @@ Since this repository is a collection of individual React applications, you will
 
 **1. Clone this repository to your local machine:**
 ```bash
-git clone [https://github.com/your-username/react-mini-projects.git](https://github.com/your-username/react-mini-projects.git)
+git clone [https://github.com/bhumikagupta17/react-mini-projects.git](https://github.com/bhumikagupta17/react-mini-projects.git)
 ```
 
 **2. Navigate into the directory of the project you want to run (e.g., Currency Converter):**
@@ -77,7 +77,6 @@ npm install
 ```bash
 npm run dev
 ```
-**Dont forget to swap out your ```username``` in the clone link before you commit!!**
 
 ---
 
